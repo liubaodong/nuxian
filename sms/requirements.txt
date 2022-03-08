@@ -52,7 +52,7 @@ et-xmlfile==1.0.1
 gunicorn==19.6.0
 honcho==0.7.1
 html5lib==0.999999999
-httpie==0.9.3
+httpie==3.1.0
 hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
