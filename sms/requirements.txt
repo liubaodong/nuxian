@@ -121,7 +121,7 @@ six==1.10.0
 snownlp==0.12.3
 SQLAlchemy==1.1.11
 suds==0.4
-Twisted==17.9.0
+Twisted==22.2.0
 typing==3.6.4
 Unidecode==0.4.20
 uritemplate==3.0.0
