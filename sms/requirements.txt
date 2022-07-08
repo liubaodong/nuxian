@@ -120,7 +120,7 @@ simplejson==3.11.1
 six==1.10.0
 snownlp==0.12.3
 SQLAlchemy==1.1.11
-suds==0.4
+suds==1.0.0
 Twisted==17.9.0
 typing==3.6.4
 Unidecode==0.4.20
